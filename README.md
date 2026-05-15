@@ -98,8 +98,8 @@ A multi-section college demo portal with responsive navigation, event pages, and
 |---|---|
 | ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
 | 🤖 AI White Belt | Google |
-| 🏅 AI Blue Belt | — |
-| ✍️ Prompt Engineering | — |
+| 🏅 AI Blue Belt | Google |
+| ✍️ Prompt Engineering | Tech Mahindra |
 | 📊 Data Visualisation Job Simulation | Tata / Forage |
 | 🎮 Product Management Job Simulation | Electronic Arts / Forage |
 | 🗄️ Database Management Systems | Coding Ninja |
