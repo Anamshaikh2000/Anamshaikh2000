@@ -33,27 +33,38 @@
 
 **Languages & Frameworks**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0A66C2?style=flat-square&logo=stackOverflow&logoColor=white)
 
 **Tools & Platforms**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:-
+
+### 🔍 RAG Pipeline — Intelligent Document Q&A System
+> **AI/GenAI Project** · Python · LangChain · FAISS · Groq · Streamlit
+
+A production-ready conversational AI system that enables semantic search and context-aware question answering over custom PDF documents.
+- Built end-to-end RAG pipeline with FAISS vector store and Sentence Transformers embeddings
+- Integrated Groq LLaMA 3.1 for fast, accurate LLM-powered responses
+- Deployed on Streamlit Cloud with secure API key management
+
+🔗 [Live Demo](#) · [GitHub](https://github.com/Anamshaikh2000/pdf-rag-chatbot)
+---
 
 ### 🏍️ SpinGo — Online Bike Rental Application
 > **Capstone Project** · Spring Boot · Thymeleaf · MySQL · Postman
@@ -118,7 +129,7 @@ A multi-section college demo portal with responsive navigation, event pages, and
 ---
 
 ## 🏆 Achievements
-
+- 🥎 **Women's Cricket Team** — tSelected in Women's Cricket team Tech Mahindra, Pune
 - 🌏 **LOA Delegate** — Asia World Model United Nations (AWMUN), Seoul, South Korea
 - 💼 **HR Executive** — Selected at Prodesk-IT, Noida based on communication skills
 - 🎪 **Tech-Fest Coordinator** — Organised a 3-day college tech event
