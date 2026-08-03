@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Anam Sheikh
 
-### Software Engineer · Front-End Developer · Allahabad, India
+### Software Engineer · AI Enthausiast · FullStack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anam-sheikh-4b2239266)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anamshaikh2000)
