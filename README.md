@@ -3,7 +3,7 @@
      Repository: Anamshaikh2000
 ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
+
 
 # Hi, I'm Anam Sheikh 👋
 
