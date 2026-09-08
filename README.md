@@ -1,158 +1,143 @@
 <!-- ═══════════════════════════════════════════════════════
      ANAM SHEIKH — GitHub Profile README
-     Repo name must match your GitHub username: Anamshaikh2000
+     Repository: Anamshaikh2000
 ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 # 👋 Hi, I'm Anam Sheikh
 
-### Software Engineer · AI Enthausiast · FullStack Developer
+### Associate Software Engineer · Java · Spring Boot · SQL · Generative AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anam-sheikh-4b2239266)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anamshaikh2000)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.anamsheikh786@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+<p>
+  <a href="https://linkedin.com/in/anam-sheikh-4b2239266">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Anamshaikh2000">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:www.anamsheikh786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://aws.amazon.com/certification/">
+    <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 👨‍💻 About Me
 
-- 🏢 Currently working as **Associate Software Engineer at Tech Mahindra**
-- 🌍 Part of an **international telecom project** — resolving tickets by analysing and rewriting defective code
-- 🤖 Proficient in using **AI tools** to build creative websites faster and with greater accuracy
-- ☁️ **AWS Certified Cloud Practitioner** | Google AI White Belt | AI Blue Belt
-- 🎯 Passionate about building clean, responsive, and accessible web experiences
-- 📬 Reach me at: **www.anamsheikh786@gmail.com**
+I'm an **Associate Software Engineer at Tech Mahindra** with hands-on experience in **Java, Spring Boot, SQL, Python, Generative AI and production troubleshooting**.
+
+I enjoy building practical applications that combine traditional software engineering with AI — particularly **RAG systems, LLM-powered applications and Natural Language → SQL solutions**.
+
+- 💼 Associate Software Engineer at **Tech Mahindra**
+- 🌍 Working on an **international telecom project**
+- 🛠️ Experience with **debugging, log analysis, root-cause analysis and code fixes**
+- ☕ Focused on **Java, Spring Boot, SQL and backend development**
+- 🤖 Building applications using **LLMs, RAG, LangChain, FAISS and Groq**
+- 🔎 Interested in **AI-powered developer tools and automation**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🧠 Solved **100+ coding problems**
+- 🎯 Currently strengthening **DSA, Backend Development, SQL and System Design**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages & Frameworks**
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Backend & Web
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Generative AI
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0A66C2?style=flat-square&logo=stackOverflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=flat-square)
 
-**Tools & Platforms**
+### Tools & Platforms
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects:-
+# 🚀 Featured Projects
 
-### 🔍 RAG Pipeline — Intelligent Document Q&A System
-> **AI/GenAI Project** · Python · LangChain · FAISS · Groq · Streamlit
+## 🧠 SQLPilot — AI-Powered SQL Assistant
 
-A production-ready conversational AI system that enables semantic search and context-aware question answering over custom PDF documents.
-- Built end-to-end RAG pipeline with FAISS vector store and Sentence Transformers embeddings
-- Integrated Groq LLaMA 3.1 for fast, accurate LLM-powered responses
-- Deployed on Streamlit Cloud with secure API key management
+**Python · Streamlit · Groq API · SQLite · Pandas · pypdf**
 
-🔗 [Live Demo](#) · [GitHub](https://github.com/Anamshaikh2000/pdf-rag-chatbot)
----
+> Natural Language → SQL → Database Execution → Results  
+> PDF → SQL Analysis → Explanation → Corrected SQL
 
-### 🏍️ SpinGo — Online Bike Rental Application
-> **Capstone Project** · Spring Boot · Thymeleaf · MySQL · Postman
+SQLPilot is an AI-powered SQL assistant that converts natural-language questions into SQL queries, executes them against dynamically created databases, and analyzes SQL queries extracted from PDF documents.
 
-A full-stack bike rental web application where users can browse, book, and manage rentals through a clean, responsive interface.
-- Built RESTful backend APIs with Spring Boot; tested all endpoints via Postman
-- Designed relational MySQL schema for users, bikes, and bookings
-- Rendered dynamic pages using Thymeleaf templates
+### ✨ Key Features
 
----
+- 💬 Converts **natural-language questions into SQL queries**
+- 🗄️ Dynamically parses **user-provided database schemas**
+- 🔗 Supports **multiple tables and SQL JOIN operations**
+- ⚡ Creates a temporary **in-memory SQLite database**
+- 📊 Executes generated SQL and displays query results
+- 📄 Extracts PDF content using **pypdf**
+- 🔍 Reviews SQL queries using an LLM
+- ✅ Identifies queries as **Correct / Wrong**
+- 🧠 Provides explanations for incorrect queries
+- 🛠️ Generates **corrected SQL queries**
+- 📦 Uses structured **JSON responses** for SQL analysis
+- 🔐 Keeps API credentials outside source code using environment variables
+- 🌐 Version-controlled using **Git and GitHub**
 
-### 🎤 ESHA — Desktop Voice Assistant
-> Python · Speech Recognition · NLP
+### 🏗️ Architecture
 
-Accessibility-first desktop assistant enabling hands-free control for users with physical disabilities.
-- NLP-based command processing to trigger OS-level actions
-- Designed with inclusivity at its core
-
----
-
-### 🍽️ Arab-Themed Restaurant Website
-> HTML5 · CSS3 · JavaScript
-
-A visually rich, fully responsive multi-page restaurant website with cultural Arabic design aesthetics.
-- CSS animations, smooth scrolling, and cross-browser compatible layout
-- Mobile-first responsive design
-
----
-
-### 🏫 College Portal
-> HTML5 · CSS3 · Bootstrap 5 · JavaScript
-
-A multi-section college demo portal with responsive navigation, event pages, and contact forms.
-- Bootstrap 5 grid for consistent cross-device rendering
-- Clean, accessible UI design
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
-| 🤖 AI White Belt | Google |
-| 🏅 AI Blue Belt | Google |
-| ✍️ Prompt Engineering | Tech Mahindra |
-| 📊 Data Visualisation Job Simulation | Tata / Forage |
-| 🎮 Product Management Job Simulation | Electronic Arts / Forage |
-| 🗄️ Database Management Systems | Coding Ninja |
-| 🌐 Full Stack Web Development | SoftPro India Pvt. Ltd. |
-
----
-
-## 💼 Work Experience
-
-**Associate Software Engineer** · Tech Mahindra _(Mar 2025 – Present)_
-> International telecom project — resolving client tickets by rewriting defective code; building responsive UIs in an Agile team
-
-**Business Development Associate** · Edugorilla Pvt. Ltd. _(Oct 2024 – Dec 2024)_
-> SaaS provider — managed client pipelines via LeadSquared CRM
-
----
-
-## 🏆 Achievements
-- 🥎 **Women's Cricket Team** — tSelected in Women's Cricket team Tech Mahindra, Pune
-- 🌏 **LOA Delegate** — Asia World Model United Nations (AWMUN), Seoul, South Korea
-- 💼 **HR Executive** — Selected at Prodesk-IT, Noida based on communication skills
-- 🎪 **Tech-Fest Coordinator** — Organised a 3-day college tech event
-- 🏸 **Badminton Champion** — First position twice at college level
-- 🏡 **Vice Captain & House Champion** — Led house to first place
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anamshaikh2000&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamshaikh2000&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-_"Proficient in using AI tools to develop creative websites — delivering quality results with accuracy in less time."_
-
-⭐ **Feel free to explore my repos and star what you find useful!**
-
-</div>
+```text
+                  SQLPilot
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+          ▼                     ▼
+ Natural Language             PDF Upload
+     Question                     │
+          │                       ▼
+          ▼                      pypdf
+       Groq LLM                    │
+          │                       ▼
+          ▼                 Extracted Text
+    Generated SQL                 │
+          │                       ▼
+          ▼                    Groq LLM
+     Schema Parser                │
+          │                       ▼
+          ▼                  SQL Analysis
+ Temporary SQLite DB              │
+          │                       ▼
+          ▼                  Corrected SQL
+     Query Result
