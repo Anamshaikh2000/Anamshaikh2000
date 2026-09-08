@@ -38,6 +38,41 @@ I enjoy turning ideas into working applications and exploring how AI can be inte
 - ☁️ AWS Certified Cloud Practitioner
 
 ---
+🎓 Education
+B.Tech — Computer Science & Engineering
+
+Dr. A.P.J. Abdul Kalam Technical University, Lucknow
+
+2020 – 2024
+SGPA: 7.73
+
+---
+
+💼 Professional Experience
+Associate Software Engineer — Tech Mahindra
+
+Mar 2025 – Present
+
+International Telecom Project
+Handle 3–5 production tickets per sprint end-to-end
+Perform log analysis and root-cause investigation
+Troubleshoot application behavior and production issues
+Implement targeted code fixes and validations
+Analyze and rewrite defective code
+Coordinate with specialist teams for out-of-scope issues
+Work within an Agile development environment
+Built an internal RAG-based knowledge solution using LangChain, FAISS and Groq API
+Reduced manual telecom KT document lookup time by approximately 70%
+Use GitHub Copilot for code generation, formatting, unit-test support and edge-case detection
+Business Development Associate — EduGorilla
+
+Oct 2024 – Dec 2024
+
+Managed client pipelines and lead tracking
+Worked with LeadSquared CRM
+Supported SaaS client onboarding and communication
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -144,23 +179,47 @@ A full-stack bike rental application for browsing, booking and managing rental s
 
 ---
 
-## 🌱 Currently Exploring
+🔭 Currently Exploring
+                    Software Engineering
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+       Backend Development          Generative AI
+             │                           │
+       ┌─────┼─────┐              ┌──────┼──────┐
+       ▼     ▼     ▼              ▼      ▼      ▼
+     Java  SQL  Spring Boot      LLM     RAG   Vector Search
+       │
+       ▼
+   DSA & System Design
 
-- Advanced **Java & Spring Boot**
-- **Data Structures & Algorithms**
-- Generative AI applications
-- RAG-based systems
-- Backend development
-- AI-assisted developer tools
+I'm particularly interested in combining software engineering + Generative AI to build practical developer tools and intelligent applications.
+
+📜 Certifications
+Certification	Issuer
+☁️ AWS Certified Cloud Practitioner	Amazon Web Services
+🤖 AI White Belt	Google
+🏅 AI Blue Belt	Google
+✍️ Prompt Engineering	Tech Mahindra
+📊 Data Visualisation Job Simulation	Tata / Forage
+🎮 Product Management Job Simulation	Electronic Arts / Forage
+🗄️ Database Management Systems	Coding Ninjas
+🌐 Full Stack Web Development	SoftPro India Pvt. Ltd.
 
 ---
 
-## 📊 GitHub Stats
+🏆 Achievements
+🧠 Solved 100+ coding problems across coding platforms
+🌏 Letter of Appreciation (LOA) — Delegate at Asia World Model United Nations, Seoul
+🎤 3× Winner — Presentation Competition
+🎪 Head Coordinator — Organised a 3-day college Tech-Fest
+🏸 Badminton Champion — 2×
+🏡 Vice Captain & House Champion
+🏏 Selected for Tech Mahindra Women's Cricket Team
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anamshaikh2000&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamshaikh2000&layout=compact&hide_border=true" height="165"/>
-</p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anamshaikh2000&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamshaikh2000&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
