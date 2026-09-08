@@ -178,23 +178,26 @@ A full-stack bike rental application for browsing, booking and managing rental s
 - Tested APIs using **Postman**
 
 ---
+---
 
-🔭 Currently Exploring
-                    Software Engineering
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-             ▼                           ▼
-       Backend Development          Generative AI
-             │                           │
-       ┌─────┼─────┐              ┌──────┼──────┐
-       ▼     ▼     ▼              ▼      ▼      ▼
-     Java  SQL  Spring Boot      LLM     RAG   Vector Search
-       │
-       ▼
-   DSA & System Design
+## 🔭 Currently Exploring
 
-I'm particularly interested in combining software engineering + Generative AI to build practical developer tools and intelligent applications.
+```text
+                         Software Engineering
+                                  │
+                 ┌────────────────┴────────────────┐
+                 │                                 │
+                 ▼                                 ▼
+        Backend Development                  Generative AI
+                 │                                 │
+          ┌──────┼──────┐                 ┌────────┼────────┐
+          ▼      ▼      ▼                 ▼        ▼        ▼
+        Java    SQL  Spring Boot         LLM      RAG   Vector Search
+          │
+          ▼
+     DSA & System Design
+
+I'm particularly interested in combining Software Engineering and Generative AI to build practical developer tools and intelligent applications.
 
 📜 Certifications
 Certification	Issuer
@@ -206,34 +209,18 @@ Certification	Issuer
 🎮 Product Management Job Simulation	Electronic Arts / Forage
 🗄️ Database Management Systems	Coding Ninjas
 🌐 Full Stack Web Development	SoftPro India Pvt. Ltd.
-
----
-
 🏆 Achievements
 🧠 Solved 100+ coding problems across coding platforms
 🌏 Letter of Appreciation (LOA) — Delegate at Asia World Model United Nations, Seoul
 🎤 3× Winner — Presentation Competition
-🎪 Head Coordinator — Organised a 3-day college Tech-Fest
-🏸 Badminton Champion — 2×
+🎪 Head Coordinator — Organised a 3-day College Tech-Fest
+🏸 2× Badminton Champion
 🏡 Vice Captain & House Champion
 🏏 Selected for Tech Mahindra Women's Cricket Team
-
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anamshaikh2000&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamshaikh2000&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anamshaikh2000&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamshaikh2000&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
+🤝 Let's Connect
 
----
+I'm always interested in connecting with developers, engineers, and people working on software engineering, AI, and interesting technology projects.
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, engineers, and people working on interesting technology and AI projects.
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="https://github.com/Anamshaikh2000">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
-
----
-
-> "Build things. Break things. Learn. Repeat."
-     Query Result
+<p align="left"> <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • <a href="https://github.com/Anamshaikh2000">GitHub</a> • <a href="mailto:YOUR_EMAIL">Email</a> </p>
